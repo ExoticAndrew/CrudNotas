@@ -2,7 +2,7 @@ spring:
   application:
     name: crud
   datasource:
-    url: jdbc:h2:mem:meubanco  #Alterar nome do banco
+    url: jdbc:h2:mem:meubanco  
     driver-class-name: org.h2.Driver
     username: Andrew
     password: 123456
