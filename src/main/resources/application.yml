@@ -4,8 +4,8 @@ spring:
   datasource:
     url: jdbc:h2:mem:meubanco  #Alterar nome do banco
     driver-class-name: org.h2.Driver
-    username: sexo
-    password: d4
+    username: Andrew
+    password: 123456
   h2:
     console:
       enabled: true
